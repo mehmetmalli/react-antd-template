@@ -1,6 +1,9 @@
 # React + Ant Design Template
 A template to use for frontend apps that comes with React and Ant Design installed and configured.
 
+To get this template, you can run:
+### `npx degit mehmetmalli/react-antd-template`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
